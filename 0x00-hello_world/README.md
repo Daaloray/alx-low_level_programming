@@ -1,1 +1,1 @@
-C language is cool!
+C language is cool! yes 
