@@ -1,0 +1,1 @@
+C language is cool!
